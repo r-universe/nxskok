@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "mkac"]
 	path = mkac
-	url = https://github.com/nxskok/smmr
+	url = https://github.com/nxskok/mkac
 [submodule "smmr"]
 	path = smmr
 	url = https://github.com/nxskok/smmr
