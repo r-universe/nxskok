@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/nxskok/nxskok.r-universe.dev
 	branch = HEAD
+[submodule "bstrap"]
+	path = bstrap
+	url = https://worktree.ca/nxskok/bstrap
 [submodule "mkac"]
 	path = mkac
 	url = https://github.com/nxskok/mkac
